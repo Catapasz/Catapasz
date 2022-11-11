@@ -1,6 +1,6 @@
 #  Hola  👋  Mi nombre es Catalina
 💫 About Me:
-<br>Soy Front End en proceso 👩‍💻<br><br>📚 Soy estudiante en Laboratoria <L><br>🌱Actualmente me encuentro aprendiendo react<br>🤓 Estoy interesada en aprender c++<br>👀 Quiero aprender a utilizar bootstrap<br>✨Me gusta mantenerme en constante aprendizaje  🤩<br><br><br>Más sobre mí: <br>🏐Soy jugadora y entrenadora de voleibol<br>💻Me gustan los videojuegos<br>🎨Me gusta dibujar y pintar<br>🏞 De vez en cuando me gustan las salidas a acampar<br>🐶PetLover 🐱<br><br><br>
+<br>Soy Front End en proceso 👩‍💻<br><br>📚 Soy estudiante en Laboratoria<br>🌱Actualmente me encuentro aprendiendo react<br>🤓 Estoy interesada en aprender c++<br>👀 Quiero aprender a utilizar bootstrap<br>✨Me gusta mantenerme en constante aprendizaje  🤩<br><br><br>Más sobre mí: <br>🏐Soy jugadora y entrenadora de voleibol<br>💻Me gustan los videojuegos<br>🎨Me gusta dibujar y pintar<br>🏞 De vez en cuando me gustan las salidas a acampar<br>🐶PetLover 🐱<br><br><br>
 
 
 ## 🌐 Socials:
