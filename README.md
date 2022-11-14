@@ -1,4 +1,7 @@
-#  Hola  👋  Mi nombre es Catalina
+# <h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=4000&color=6F8EE3&lines=Hola++👋+soy+Catalina)](https://git.io/typing-svg)
+</h1>
 💫 About Me:
 <br>Soy Front End en proceso 👩‍💻<br><br>📚 Soy estudiante en Laboratoria<br>🌱Actualmente me encuentro aprendiendo react<br>🤓 Estoy interesada en aprender c++<br>👀 Quiero aprender a utilizar bootstrap<br>✨Me gusta mantenerme en constante aprendizaje  🤩<br><br><br>Más sobre mí: <br>🏐Soy jugadora y entrenadora de voleibol<br>💻Me gustan los videojuegos<br>🎨Me gusta dibujar y pintar<br>🏞 De vez en cuando me gustan las salidas a acampar<br>🐶PetLover 🐱<br><br><br>
 
